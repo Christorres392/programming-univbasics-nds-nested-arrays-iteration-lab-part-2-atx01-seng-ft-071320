@@ -15,6 +15,3 @@ end
 lowest_numbers << lowest_num_element
 row_index += 1
 end
-
-
-lowest_numbers
